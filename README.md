@@ -1,6 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00C6FF&height=220&section=header&text=Gnana%20Prakash%20D&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20%2F%20ML%20Engineer%20in%20the%20Making&descAlignY=58&descSize=18" width="100%" alt="Gnana Prakash D - AI/ML Engineer banner" />
+</p>
 
-# Hi, I'm Gnana Prakash D 👋
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+%26+GenAI+Engineer;Building+with+LLMs%2C+RAG+%26+Agents;Backend+Developer+-+Python+%2B+FastAPI;DSA+%2B+Problem+Solving+Enthusiast)](https://git.io/typing-svg)
 
@@ -100,6 +102,28 @@ One-line, outcome-focused description of what it does and the problem it solves.
 
 <br>
 
+## 🏆 Trophies
+
+<p align="center">
+  <a href="https://github.com/Gnanaprakash7272">
+    <img src="https://github-profile-trophy.vercel.app/?username=Gnanaprakash7272&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<br>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gnanaprakash7272/Gnanaprakash7272/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gnanaprakash7272/Gnanaprakash7272/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Gnanaprakash7272/Gnanaprakash7272/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<sub>Renders once the workflow below has run in your profile repo — see setup note.</sub>
+
+<br>
+
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnana-prakash-d-009663380)
@@ -109,8 +133,6 @@ One-line, outcome-focused description of what it does and the problem it solves.
 
 <br>
 
-<div align="center">
-
-*Building my way toward AI engineering — one project at a time.*
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00C6FF&height=120&section=footer&animation=fadeIn" width="100%" alt="footer wave" />
+</p>****
